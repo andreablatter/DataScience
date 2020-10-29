@@ -1,0 +1,9 @@
+Buenas! Les dejo el Notebook que dará pie al TP 5. Es un buen puntapié para iniciar...
+
+Van a ver que en el notebook clona un repositorio que baja las imagenes y los datos, y luego tiene algunas instrucciones en el mismo.
+
+La idea sería que vayan avanzando y tratemos de terminarlo para el jueves 29 de octubre. Si terminan antes mejor :). Es un tema medio complejo, así que obviamente, estoy disponible para lo que necesiten! Recuerden que, de ser posible, capaz es mejor que lo corran en colab, para poder utilizar GPU, que les acelerará bastante los entrenamientos y podrán hacer pruebas con más épocas de entrenamiento.
+
+El objetivo del TP es obtener un modelo que permita clasificar una imagen en fruta, verdura o paquete. Es para poder identificar los productos de un supermercado en las góndolas.
+
+La entrega consiste en el notebook (no me suban las imagenes, porque no los va a dejar :)
